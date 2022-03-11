@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2953399124F0cBB46d2CbACD8A89cF0599974963",
+  "SCAN_LINK": "https://polygonscan.com/token/0x2953399124F0cBB46d2CbACD8A89cF0599974963",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Rare NFT99",
+  "SYMBOL": "R99",
+  "MAX_SUPPLY": 175,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rare-nft99",
+  "SHOW_BACKGROUND": true
+}
